@@ -1,2 +1,2 @@
 # tribute-page
-This is a simple truibute page made using html and css.
+This is a simple tribute page made using HTML and CSS.
